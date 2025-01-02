@@ -1,2 +1,2 @@
-# UFV-Trunfo
+# Florestrunfo
 TP of distributed systems 
