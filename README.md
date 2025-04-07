@@ -5,7 +5,7 @@ Projeto da disciplina **Sistemas Distribuídos e Paralelos**, desenvolvido com f
 
 ---
 
-> 📚 Documento técnico: [`Distribuídos - TP III.pdf`] e [`Distribuídos - TP IV.pdf`]
+> 📚 Documento técnico: `Distribuídos - TP III.pdf` e `Distribuídos - TP IV.pdf`
 > 
 > ⚠️ Projeto acadêmico com fins didáticos
 
